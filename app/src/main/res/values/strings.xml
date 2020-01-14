@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CryptoTracker</string>
+    <string name="label_default_text">0000.00</string>
+    <string name="valuta">Valuta</string>
+    <string name="image_logo">Crypto Logo</string>
+    <string name="btc_logo">BTC Logo</string>
+    <string name="Background">Image Background</string>
+
+    <string-array name="valuta_array">
+        <item>HRK</item>
+        <item>USD</item>
+        <item>EUR</item>
+        <item>GBP</item>
+    </string-array>
+
+</resources>
